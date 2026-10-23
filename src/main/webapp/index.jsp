@@ -141,16 +141,16 @@
     <!-- [EDIT] PRESENTATION TITLE -->
     <div class="meta"><strong>DevOps Portfolio</strong>
       <!-- [EDIT] YOUR NAME -->
-      Presented By: Amaan Ansari
+      Amaan Ansari
     </div>
   </div>
 
   <div>
     <div class="row reveal">
       <!-- [EDIT] YOUR ROLES (separated by slashes) -->
-      <div>DevOps Engineer (Fresher) &nbsp;/&nbsp; Linux &nbsp;/&nbsp; Cloud</div>
+      <div>DevOps Engineer  &nbsp;/&nbsp; Linux &nbsp;/&nbsp; Cloud</div>
       <!-- [EDIT] CONTACT: EMAIL / PHONE / CITY -->
-      <div>youremail@gmail.com &nbsp;&nbsp; +91 00000 00000 &nbsp;&nbsp; Mumbai, India</div>
+      <div>ansariamaan.298@gmail.com &nbsp;&nbsp; +91 90824 79108 &nbsp;&nbsp; Mumbai, India</div>
     </div>
     <!-- [EDIT] HUGE WORD at the bottom -->
     <div class="portfolio-word reveal">Portfolio</div>
@@ -173,7 +173,7 @@
 
     <div class="reveal">
       <!-- [EDIT] NAME SECTION -->
-      <h1>Hello!<span>I'm Amaan Ansari</span></h1>
+      <h1>$ whoami<span>Amaan Ansari</span></h1>
 
       <!-- [EDIT] SHORT INTRO -->
       <p class="para" style="margin-top:6vh">
@@ -190,7 +190,7 @@
 
   <div class="contact">
     <!-- [EDIT] EMAIL / PHONE / LOCATION (bottom row) -->
-    <span>youremail@gmail.com</span><span>+91 00000 00000</span><span>Mumbai, India</span>
+    <span>ansariamaan.298@@gmail.com</span><span>+91 90824 79108</span><span>Mumbai, India</span>
   </div>
 </section>
 
