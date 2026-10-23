@@ -281,15 +281,15 @@
      SLIDE 6 — THANK YOU / CONTACT
      ===================================================================== -->
 <section class="slide" id="s6">
-  <div class="topbar"><span>DevOps Portfolio</span><span>20 Oct, 2026</span></div>
+  <div class="topbar"><span>DevOps Portfolio</span><span>23 Oct, 2026</span></div>
 
   <!-- [EDIT] CLOSING HEADING -->
   <h2 class="big reveal" style="font-size:clamp(70px,16vw,260px)">Let's<br>work.</h2>
 
   <div class="contact reveal" style="margin-top:0">
     <!-- [EDIT] LINKS: email, GitHub, LinkedIn -->
-    <a href="mailto:youremail@gmail.com">youremail@gmail.com</a>
-    <a href="https://github.com/your-username" target="_blank">GitHub</a>
+    <a href="ansariamaan.298@gmail.com">youremail@gmail.com</a>
+    <a href="https://github.com/obs-fury" target="_blank">GitHub</a>
     <a href="https://linkedin.com/in/your-username" target="_blank">LinkedIn</a>
   </div>
 </section>
